@@ -1,0 +1,5 @@
+Data: 
+
+Want readcsv to only return a single QList.
+
+dont split  

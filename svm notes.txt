@@ -1,0 +1,7 @@
+svm_train - line 2179
+
+optimization finished, #iter = 87303
+obj = -15820.123738, rho = 0.137048
+nSV = 48184, nBSV = 1325
+Total nSV = 48184
+
